@@ -18,7 +18,7 @@ export default function ComingSoonPage() {
         </header>
 
         {/* Main Content */}
-        <div className="bg-white rounded-3xl shadow-2xl p-12">
+        <div className="bg-white rounded-3xl shadow-2xl p-6 md:p-12">
           {/* Icon */}
           <div className="mb-8">
             <div className="inline-flex items-center justify-center w-24 h-24 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full mb-6">

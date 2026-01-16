@@ -1,32 +1,10 @@
 import Link from "next/link";
+import Navbar from "@/components/Navbar";
 
 export default function ContactPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
-      {/* Header */}
-      <header className="bg-white shadow-sm">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center py-6">
-            <div className="flex items-center">
-              <div className="flex-shrink-0">
-                <h1 className="text-2xl font-bold text-gray-900">RoadAssist Pro</h1>
-              </div>
-            </div>
-            <nav className="hidden md:flex space-x-8">
-              <Link href="/marketing#features" className="text-gray-700 hover:text-blue-600">Features</Link>
-              <Link href="/marketing#how-it-works" className="text-gray-700 hover:text-blue-600">How It Works</Link>
-              <Link href="/marketing#dispatch" className="text-gray-700 hover:text-blue-600">Dispatch System</Link>
-              <a href="#contact" className="text-gray-700 hover:text-blue-600">Contact</a>
-            </nav>
-            <Link
-              href="/"
-              className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700"
-            >
-              Back to App
-            </Link>
-          </div>
-        </div>
-      </header>
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 pt-20">
+      <Navbar />
 
       {/* Contact Hero Section */}
       <section className="relative py-32 px-4 sm:px-6 lg:px-8 overflow-hidden">
