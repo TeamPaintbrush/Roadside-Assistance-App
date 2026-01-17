@@ -8,8 +8,11 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/Roadside-Assistance-App',
-  assetPrefix: '/Roadside-Assistance-App/',
+  // Only apply basePath for production builds (GitHub Pages)
+  ...(process.env.NODE_ENV === 'production' && {
+    basePath: '/Roadside-Assistance-App',
+    assetPrefix: '/Roadside-Assistance-App/',
+  }),
 };
 
 export default nextConfig;
