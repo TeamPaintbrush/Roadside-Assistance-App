@@ -868,6 +868,136 @@ export default function MarketingPage() {
         </div>
       </section>
 
+      {/* Competitive Analysis */}
+      <section id="competitive-analysis" className="py-20 bg-gradient-to-br from-gray-50 to-blue-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+              Market Leadership
+            </h2>
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+              How we differentiate ourselves in the competitive roadside assistance landscape
+            </p>
+          </div>
+
+          <div className="grid lg:grid-cols-2 gap-12 mb-16">
+            {/* Our Strengths */}
+            <div className="bg-white p-8 rounded-2xl shadow-xl">
+              <div className="flex items-center mb-6">
+                <div className="w-12 h-12 bg-green-500 rounded-xl flex items-center justify-center mr-4">
+                  <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  </svg>
+                </div>
+                <h3 className="text-2xl font-bold text-gray-900">Our Competitive Advantages</h3>
+              </div>
+              <ul className="space-y-4">
+                <li className="flex items-start">
+                  <svg className="w-5 h-5 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  <div>
+                    <strong className="text-gray-900">AI-Powered Dispatch:</strong>
+                    <span className="text-gray-600 ml-1">Lightning-fast technician matching in milliseconds</span>
+                  </div>
+                </li>
+                <li className="flex items-start">
+                  <svg className="w-5 h-5 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  <div>
+                    <strong className="text-gray-900">Real-Time Tracking:</strong>
+                    <span className="text-gray-600 ml-1">Complete transparency with live GPS updates</span>
+                  </div>
+                </li>
+                <li className="flex items-start">
+                  <svg className="w-5 h-5 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  <div>
+                    <strong className="text-gray-900">Mobile-First Experience:</strong>
+                    <span className="text-gray-600 ml-1">Seamless booking and tracking on any device</span>
+                  </div>
+                </li>
+                <li className="flex items-start">
+                  <svg className="w-5 h-5 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  <div>
+                    <strong className="text-gray-900">Tier-2/3 City Focus:</strong>
+                    <span className="text-gray-600 ml-1">Dedicated coverage for underserved markets</span>
+                  </div>
+                </li>
+              </ul>
+            </div>
+
+            {/* Market Position */}
+            <div className="bg-white p-8 rounded-2xl shadow-xl">
+              <div className="flex items-center mb-6">
+                <div className="w-12 h-12 bg-blue-500 rounded-xl flex items-center justify-center mr-4">
+                  <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+                  </svg>
+                </div>
+                <h3 className="text-2xl font-bold text-gray-900">Market Position</h3>
+              </div>
+              <div className="space-y-6">
+                <div className="bg-gradient-to-r from-blue-50 to-indigo-50 p-4 rounded-lg">
+                  <h4 className="font-semibold text-gray-900 mb-2">Industry Growth</h4>
+                  <p className="text-gray-600">Roadside assistance market growing at 4.1% CAGR globally (2022-2030)</p>
+                </div>
+                <div className="bg-gradient-to-r from-green-50 to-emerald-50 p-4 rounded-lg">
+                  <h4 className="font-semibold text-gray-900 mb-2">India Context</h4>
+                  <p className="text-gray-600">120M+ car owners, with only 40% having roadside coverage</p>
+                </div>
+                <div className="bg-gradient-to-r from-purple-50 to-pink-50 p-4 rounded-lg">
+                  <h4 className="font-semibold text-gray-900 mb-2">Our Opportunity</h4>
+                  <p className="text-gray-600">Fill the gap with technology-driven, transparent, and accessible service</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Competitive Comparison */}
+          <div className="bg-white p-8 rounded-2xl shadow-xl">
+            <h3 className="text-2xl font-bold text-gray-900 mb-8 text-center">How We Compare</h3>
+            <div className="overflow-x-auto">
+              <table className="w-full">
+                <thead>
+                  <tr className="border-b border-gray-200">
+                    <th className="text-left py-4 px-4 font-semibold text-gray-900">Feature</th>
+                    <th className="text-center py-4 px-4 font-semibold text-gray-900">Traditional Players</th>
+                    <th className="text-center py-4 px-4 font-semibold text-blue-600">RoadAssist Pro</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr className="border-b border-gray-100">
+                    <td className="py-4 px-4 font-medium text-gray-900">Response Time</td>
+                    <td className="py-4 px-4 text-center text-gray-600">30-60 minutes</td>
+                    <td className="py-4 px-4 text-center text-green-600 font-semibold">15 minutes avg</td>
+                  </tr>
+                  <tr className="border-b border-gray-100">
+                    <td className="py-4 px-4 font-medium text-gray-900">Real-time Tracking</td>
+                    <td className="py-4 px-4 text-center text-gray-600">Limited</td>
+                    <td className="py-4 px-4 text-center text-green-600 font-semibold">Full GPS tracking</td>
+                  </tr>
+                  <tr className="border-b border-gray-100">
+                    <td className="py-4 px-4 font-medium text-gray-900">Mobile Experience</td>
+                    <td className="py-4 px-4 text-center text-gray-600">Basic apps</td>
+                    <td className="py-4 px-4 text-center text-green-600 font-semibold">AI-powered platform</td>
+                  </tr>
+                  <tr>
+                    <td className="py-4 px-4 font-medium text-gray-900">Tier-2/3 Coverage</td>
+                    <td className="py-4 px-4 text-center text-gray-600">Spotty</td>
+                    <td className="py-4 px-4 text-center text-green-600 font-semibold">Dedicated focus</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Footer */}
       <footer id="contact" className="bg-gray-900 text-white py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
