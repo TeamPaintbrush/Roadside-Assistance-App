@@ -76,7 +76,7 @@ export default function MarketingPage() {
             <div>
               <h3 className="text-2xl font-bold text-gray-900 mb-6">The Challenge</h3>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                This project focuses on digitally transforming a traditionally non-digital roadside assistance service in India into a modern, user-centered mobile-first experience.
+                This project focuses on digitally transforming traditional roadside assistance services into a modern, user-centered mobile-first experience.
               </p>
               <div className="space-y-4">
                 <div className="flex items-start space-x-4">
@@ -121,7 +121,7 @@ export default function MarketingPage() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900">Limited Accessibility</h4>
-                    <p className="text-gray-600">Limited accessibility in smaller cities</p>
+                    <p className="text-gray-600">Limited accessibility in rural and underserved areas</p>
                   </div>
                 </div>
               </div>
@@ -947,8 +947,8 @@ export default function MarketingPage() {
                   <p className="text-gray-600">Roadside assistance market growing at 4.1% CAGR globally (2022-2030)</p>
                 </div>
                 <div className="bg-gradient-to-r from-green-50 to-emerald-50 p-4 rounded-lg">
-                  <h4 className="font-semibold text-gray-900 mb-2">India Context</h4>
-                  <p className="text-gray-600">120M+ car owners, with only 40% having roadside coverage</p>
+                  <h4 className="font-semibold text-gray-900 mb-2">Market Context</h4>
+                  <p className="text-gray-600">Millions of drivers face roadside emergencies with limited access to reliable assistance</p>
                 </div>
                 <div className="bg-gradient-to-r from-purple-50 to-pink-50 p-4 rounded-lg">
                   <h4 className="font-semibold text-gray-900 mb-2">Our Opportunity</h4>
