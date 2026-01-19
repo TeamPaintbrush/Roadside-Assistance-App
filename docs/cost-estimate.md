@@ -1,5 +1,7 @@
 # Cost Estimate for Roadside Assistance App Development
 
+**Last Updated:** January 19, 2026
+
 ## Overview
 This document outlines the estimated costs for developing the roadside assistance application as it currently stands, based on the implemented features and planned scope. All estimates are in USD and assume a senior developer rate of $80/hour. Costs are broken down by development phase, infrastructure, and ongoing expenses.
 
