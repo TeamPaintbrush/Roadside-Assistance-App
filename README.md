@@ -1,33 +1,112 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Roadside Assistance App
 
-## Getting Started
+A modern, AI-powered roadside assistance platform built with Next.js, designed to transform traditional roadside services into seamless digital experiences.
 
-First, run the development server:
+## 🌐 Live Demo
 
+**View the live application:** [https://teampaintbrush.github.io/Roadside-Assistance-App/](https://teampaintbrush.github.io/Roadside-Assistance-App/)
+
+## 🚀 Features
+
+- **AI-Powered Dispatch**: Intelligent technician matching in milliseconds
+- **Real-Time Tracking**: Complete GPS transparency for all services
+- **Mobile-First Design**: Seamless experience across all devices
+- **Comprehensive Services**: Battery jumpstart, fuel delivery, lockout assistance, tire changes, towing, and emergency diagnostics
+- **Market Leadership**: Competitive analysis and positioning in the roadside assistance industry
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js 16.1.3
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Deployment**: GitHub Pages (Static Export)
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18+
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/TeamPaintbrush/Roadside-Assistance-App.git
+cd Roadside-Assistance-App
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:6931](http://localhost:6931) with your browser.
 
-## Learn More
+## 📜 Available Scripts
 
-To learn more about Next.js, take a look at the following resources:
+- `npm run dev` - Start development server on port 6931
+- `npm run build` - Build for production
+- `npm run export` - Export static files
+- `npm run deploy` - Deploy to GitHub Pages
+- `npm run lint` - Run ESLint
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📁 Project Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```
+├── src/
+│   ├── app/                 # Next.js app router pages
+│   │   ├── marketing/       # Marketing landing page
+│   │   ├── contact/         # Contact page
+│   │   └── coming-soon/     # Coming soon page
+│   ├── components/          # Reusable React components
+│   └── lib/                 # Utility functions
+├── public/                  # Static assets
+├── docs/                    # Documentation and project files
+└── out/                     # Built static files (GitHub Pages)
+```
+
+## 🎯 Key Pages
+
+- **/** - Home page
+- **/marketing** - Marketing landing page with services and competitive analysis
+- **/contact** - Contact and demo scheduling
+- **/coming-soon** - Future features preview
+
+## 📊 Project Insights
+
+Based on comprehensive market research:
+- 120M+ car owners in India (2022)
+- Only 40% have roadside coverage
+- 62.69% of breakdowns are non-start issues
+- Market growing at 4.1% CAGR globally
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/your-feature`
+3. Commit changes: `git commit -m 'Add your feature'`
+4. Push to branch: `git push origin feature/your-feature`
+5. Open a Pull Request
+
+## 📄 License
+
+This project is private and proprietary to Paintbrush Marketing.
+
+## 📞 Contact
+
+For inquiries or demo requests:
+- Email: lross@paintbrushmarketing.net
+- Project: Roadside Assistance Service – QUICK FIX
+
+---
+
+Made with ❤️ by [Paintbrush Marketing](https://teampaintbrush.github.io/Roadside-Assistance-App/)
 
 ## Deploy on Vercel
 
