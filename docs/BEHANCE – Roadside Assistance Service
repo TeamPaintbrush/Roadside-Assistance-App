@@ -1,0 +1,119 @@
+# QUICK FIX – Roadside Assistance Service
+
+**Tagline**  
+Turning roadside emergencies into effortless recoveries.
+
+Imagine a world where roadside assistance is seamless and stress-free.
+
+![Hero Banner](https://via.placeholder.com/1200x600/000000/FF6600?text=QUICK+FIX+-+Roadside+Assistance)  
+*(Dark background with orange accents, stranded car & tow truck illustration)*
+
+**Brand Identity**  
+- Primary Color: Orange (#FF6600)  
+- Secondary: Black (#000000)  
+- Accent: White (#FFFFFF)  
+- Logo: Orange gear + car silhouette
+
+## Project Overview
+
+This project focuses on digitally transforming a traditionally non-digital roadside assistance service in India into a modern, user-centered mobile-first experience.
+
+We identified major pain points:  
+- Severe lack of real-time data & transparency  
+- Slow response times & poor communication  
+- Reliance on unstructured partner networks  
+- Limited accessibility in smaller cities  
+
+The solution is a seamless digital platform that streamlines booking, tracking, payments, and service delivery — improving satisfaction for users and operational efficiency for providers.
+
+## Design Process (Double Diamond)
+
+Discover ──► Define ──► Design ──► Deliver
+Insights     Problem      Ideation      Solution
+Observations   Statement                 Feedback
+
+## Project Timeline
+
+| Phase      | Duration   | Key Activities                          |
+|------------|------------|-----------------------------------------|
+| Discover   | 5 days     | Research, Insights, Observations        |
+| Define     | 2 days     | Problem Statement                       |
+| Design     | 3 days     | UI/UX ideation, wireframes, visuals     |
+| Deliver    | 3 days     | High-fidelity prototypes, feedback      |
+
+**Total: ~13 days**
+
+## DISCOVER Phase – Key Insights (India Context)
+
+- **40%** of car owners in India have comprehensive insurance policies (many still lack roadside coverage)  
+- **~120 million** people (≈8% of population) owned cars in 2022  
+- **62.69%** of breakdowns caused by non-start issues (battery, fuel, etc.)  
+- Roadside assistance market expected to grow at **~4.1% CAGR** (2022–2030 globally)
+
+**Core Problem**  
+Severe lack of structured data collection, real-time tracking, and easy digital access — leaving drivers vulnerable during breakdowns.
+
+## Core Roadside Assistance Services Offered
+
+Here are the primary services visualized in the original project:
+
+### 1. Battery Jumpstart
+![Battery Jumpstart](https://via.placeholder.com/600x400/000000/FF6600?text=Battery+Jumpstart)  
+Professional roadside battery jump in Indian context
+
+### 2. Fuel Delivery
+![Fuel Delivery](https://via.placeholder.com/600x400/000000/FF6600?text=Fuel+Delivery)  
+Quick petrol/diesel delivery via bike/scooter – very common in cities
+
+### 3. Car Lockout Assistance
+![Lockout Service](https://via.placeholder.com/600x400/000000/FF6600?text=Car+Lockout)  
+Technician unlocking vehicle without damage
+
+### 4. Flat Tire Change / Installation
+![Tire Change](https://via.placeholder.com/600x400/000000/FF6600?text=Flat+Tire+Change)  
+Roadside puncture repair or spare Tire fitting
+
+### 5. Towing Service
+![Towing](https://via.placeholder.com/600x400/000000/FF6600?text=Towing+Service)  
+24/7 flatbed or tow truck service
+
+## Competitive Analysis – SWOT
+
+| Player              | Strengths                                      | Weaknesses                                   | Opportunities                                      | Threats                                          |
+|---------------------|------------------------------------------------|----------------------------------------------|----------------------------------------------------|--------------------------------------------------|
+| **ReadyAssist**     | Strong in major cities, 24/7 helpline, wide network | Limited minor repairs, inconsistent pricing  | Smaller cities, mobile app, dealership partnerships | Rising competition, fuel cost impact             |
+| **Allianz Assistance** | Pan-India, multilingual, cashless transactions | Slower response, heavy partner dependency    | Insurance bundling, preventive maintenance         | Regulations, partner capacity issues             |
+| **GoMechanic**      | Transparent pricing, large workshop network    | Limited on-site quality control              | Integrated services, new cities                    | Larger players entering app-based space          |
+| **Crossroads**      | 24/7 helpline, free estimates                  | Limited coverage area, towing-focused        | Additional services, car rental tie-ups            | Customer shift to modern mobile apps             |
+
+**QUICK FIX Opportunity**  
+Fill the gap with:  
+- Fast mobile-first booking & real-time tracking  
+- Transparent & flexible pricing  
+- Strong focus on Tier-2/3 cities  
+- Integrated partner quality control
+
+## Primary Research Sources
+
+- Car owners & drivers (urban + semi-urban)  
+- On-field mechanics & service providers  
+- Repair workshop owners  
+
+**Real-world Context** (partner garages & roadside setups in India):  
+![Garage Scene 1](https://via.placeholder.com/800x500/000000/FF6600?text=Indian+Garage+Workshop)
+![Garage Scene 2](https://via.placeholder.com/800x500/000000/FF6600?text=Roadside+Mechanic)
+![Service Point](https://via.placeholder.com/800x500/000000/FF6600?text=Partner+Network)
+
+---
+
+**Project Goal**  
+Create a modern, reliable, and user-friendly digital roadside assistance ecosystem that turns stressful breakdowns into quick, confident recoveries.
+
+**Next Steps (Suggested for Development)**  
+- High-fidelity mobile app screens (booking flow, live tracking, service history)  
+- Partner dashboard for mechanics/workshops  
+- Subscription model exploration  
+- Integration with insurance APIs & payment gateways
+
+Made with ❤️ by Leroy  
+Behance Project: Roadside Assistance Service – QUICK FIX  

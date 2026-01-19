@@ -7,7 +7,7 @@ export default function Home() {
       <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-center gap-12 py-12 px-6 bg-white dark:bg-black sm:items-start">
         <Image
           className="dark:invert"
-          src="/images/Paintbrush Marketing logo.png"
+          src="/images/paintbrush-marketing-logo.png"
           alt="Paintbrush Marketing logo"
           width={200}
           height={60}

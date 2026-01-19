@@ -18,6 +18,7 @@ export default function Navbar() {
 
   const navLinks = [
     { name: "Features", href: getLink("#features") },
+    { name: "Services", href: getLink("#services-offered") },
     { name: "How It Works", href: getLink("#how-it-works") },
     { name: "Dispatch System", href: getLink("#dispatch") },
     { name: "Contact", href: "/contact" },
