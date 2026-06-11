@@ -283,7 +283,7 @@ export default function IntelligentDispatchPage() {
             <Link href="/demo" className={buttonVariants({ variant: "primary", size: "lg" })} style={{ background: "white", color: "#059669" }}>
               Try the Simulator
             </Link>
-            <Link href="/contact" className={buttonVariants({ variant: "outline-white", size: "lg" })}>
+            <Link href="/demo" className={buttonVariants({ variant: "outline-white", size: "lg" })}>
               Book a Demo
             </Link>
           </div>

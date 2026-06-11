@@ -170,7 +170,7 @@ export default function HowItWorksPage() {
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Ready to Try It?</h2>
           <p className="text-blue-100 text-xl mb-8 max-w-xl mx-auto">Request a demo or get help the moment you need it.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/contact" className={buttonVariants({ variant: "primary", size: "lg" })} style={{ background: "white", color: "#2563eb" }}>
+            <Link href="/demo" className={buttonVariants({ variant: "primary", size: "lg" })} style={{ background: "white", color: "#2563eb" }}>
               Get a Demo
             </Link>
             <Link href="/services" className={buttonVariants({ variant: "outline-white", size: "lg" })}>

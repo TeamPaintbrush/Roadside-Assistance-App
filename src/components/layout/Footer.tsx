@@ -116,7 +116,7 @@ export default function Footer() {
               </li>
               <li className="pt-1">
                 <Link
-                  href="/contact"
+                  href="/demo"
                   className="inline-flex items-center gap-1.5 text-sm text-blue-400 hover:text-blue-300 font-medium transition-colors"
                 >
                   Schedule a Demo

@@ -184,7 +184,7 @@ export default function AboutPage() {
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Want to Learn More?</h2>
           <p className="text-blue-100 text-xl mb-8 max-w-xl mx-auto">Schedule a demo and see the platform firsthand.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/contact" className={buttonVariants({ variant: "primary", size: "lg" })} style={{ background: "white", color: "#2563eb" }}>
+            <Link href="/demo" className={buttonVariants({ variant: "primary", size: "lg" })} style={{ background: "white", color: "#2563eb" }}>
               Book a Demo
             </Link>
             <Link href="/features" className={buttonVariants({ variant: "outline-white", size: "lg" })}>

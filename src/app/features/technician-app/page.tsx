@@ -274,7 +274,7 @@ export default function TechnicianAppPage() {
             <Link href="/demo" className={buttonVariants({ variant: "primary", size: "lg" })} style={{ background: "white", color: "#ea580c" }}>
               View the Platform Demo
             </Link>
-            <Link href="/contact" className={buttonVariants({ variant: "outline-white", size: "lg" })}>
+            <Link href="/demo" className={buttonVariants({ variant: "outline-white", size: "lg" })}>
               Book a Live Demo
             </Link>
           </div>

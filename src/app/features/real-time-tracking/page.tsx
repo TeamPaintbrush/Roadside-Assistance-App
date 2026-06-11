@@ -134,7 +134,7 @@ export default function RealTimeTrackingPage() {
               <Link href="/demo" className={buttonVariants({ variant: "primary", size: "lg" })} style={{ background: "white", color: "#2563eb" }}>
                 See the Demo
               </Link>
-              <Link href="/contact" className={buttonVariants({ variant: "outline-white", size: "lg" })}>
+              <Link href="/demo" className={buttonVariants({ variant: "outline-white", size: "lg" })}>
                 Book a Demo
               </Link>
             </div>
