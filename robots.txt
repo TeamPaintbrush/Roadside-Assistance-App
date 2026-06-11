@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /legal/
+
+Sitemap: https://roadassistpro.com/sitemap.xml
